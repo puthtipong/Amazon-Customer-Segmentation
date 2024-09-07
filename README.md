@@ -9,8 +9,6 @@ This project focuses on customer segmentation using machine learning techniques.
 1. [Project Description](#project-description)
 2. [Technologies Used](#technologies-used)
 3. [Results](#results)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Project Description
 
